@@ -77,12 +77,7 @@ Based on the number of detections:
 
 ### 4. Slack Alert Output
 
-> 🚨 **New Alert: Suspicious Outbound Connection**
-> ➤ Source IP: `8.8.8.8`
-> ➤ Destination IP: `192.168.1.10`
-> ➤ URL: `http://malicious-example.com`
-> ➤ Severity: **High**
-> ➤ VT Detections: `12 engines flagged it`
+![Screenshot 2025-06-09 210441](https://github.com/user-attachments/assets/31197d94-e5a7-417a-b45e-a7350496320f)
 
 ---
 
